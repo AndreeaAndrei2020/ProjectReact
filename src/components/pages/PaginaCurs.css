@@ -1,0 +1,17 @@
+.img-container {
+    /* Sizing */
+    width: 100vw;
+    height: 80vh;
+    /* Flexbox stuff */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Text styles */
+    text-align: center;
+    /* Background styles */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: none;
+}

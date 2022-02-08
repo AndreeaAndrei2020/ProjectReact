@@ -1,0 +1,51 @@
+.CardItem {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.h1Retete {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.ImgCard {
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttonRead {
+    background-color: white !important;
+    color: black !important;
+    border-color: white !important;
+}
+
+.buttonRead:visited {
+    border-color: white !important;
+}
+
+.buttonRead:active {
+    border-color: white !important;
+}
+
+.buttonRead:focus {
+    border-color: white !important;
+}
+
+.cardProdusPagina {
+    display: flex;
+    justify-content: center;
+}
+
+.imgOrizontal {
+    width: 350px !important;
+    height: auto !important;
+}
+
+.cardProdus {
+    width: 350px !important;
+    height: auto !important;
+}

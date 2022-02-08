@@ -1,0 +1,31 @@
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 80px;
+    color: #525252;
+}
+
+.CardContact .text-center {
+    color: #525252 !important;
+}
+
+.divContact {
+    margin: auto;
+    width: 500px;
+}
+
+.CardContact {
+    margin-top: 50px;
+}
+
+.text-center .MailClass {
+    color: #999999 !important;
+}
+
+a {
+    color: #525252;
+}
+
+a:hover {
+    color: black;
+}

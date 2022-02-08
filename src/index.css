@@ -1,0 +1,39 @@
+        #title {
+            text-align: center;
+        }
+        /*
+        .card {
+            border: 5px solid red;
+            width: 100px;
+            height: auto;
+            position: relative;
+            padding: 20px;
+        }
+        */
+        
+        .actions {
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+        }
+        
+        .btn-plus {
+            border-radius: 5px;
+            border: 1px solid red;
+        }
+        
+        .sure {
+            background-color: rgb(70, 25, 31, 0.2);
+        }
+        
+        body {
+            background-color: white !important;
+        }
+        
+        header {
+            background-color: white !important;
+        }
+        
+        .textPret {
+            text-align: center;
+        }

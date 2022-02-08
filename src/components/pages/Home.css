@@ -1,0 +1,65 @@
+.img-container {
+    background-image: url('../../../public/photos/PhotoHome.jpg');
+    /* Sizing */
+    width: 100vw;
+    height: 60vh;
+    /* Flexbox stuff */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Text styles */
+    text-align: center;
+    /* Background styles */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: none;
+}
+
+.PStressed {
+    color: white !important;
+    font-size: 1.1rem !important;
+}
+
+button {
+    font-size: 1rem;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 7px;
+    color: black;
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
+.blbla {
+    width: 350px !important;
+}
+
+.CardPagina {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.textPagina {
+    width: 350px !important;
+}
+
+.paragrafCurs {
+    color: black !important;
+}
+
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+
+.CardCurs {
+    width: 70vw;
+    padding: 10px;
+    border: 5px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+}
